@@ -26,7 +26,7 @@
 |---|---------|-------------|------------|------|
 | 🌱 | **Super Store Sales Dashboard** | Interactive Power BI dashboard analyzing sales, profit & delivery metrics with KPI cards, regional filters, and 2021 sales forecasting | Power BI · Data Cleaning · Sales Forecasting | [View →](https://github.com/adityaaapratappp/Super-Store-Sales-Dashboard-) |
 | ⚡ | **Apex Quantum Terminal** | Real-time crypto dashboard desktop app with live prices, 7-day volatility charts, ATH/ATL analysis, and a neon cyberpunk UI | Python · Tkinter · Matplotlib · Pandas · REST API | [View →](https://github.com/adityaaapratappp/Crypto-Python-Project-) |
-| 🌌 | **Galaxy Clock** | Fullscreen animated solar system clock with all 8 planets orbiting in real time, twinkling starfield, shooting stars, and a live clock with clickable planet telemetry | Python · Tkinter · Math · Animation | [View →](https://github.com/adityaaapratappp/Galaxy-Clock) |
+| 🌌 | **Galaxy Clock** | Fullscreen animated solar system clock with all 8 planets orbiting in real time, twinkling starfield, shooting stars, and a live clock with clickable planet telemetry | Python · Tkinter · Math · Animation | [View →](https://github.com/adityaaapratappp/SolarCLock) |
 
 ###
 
