@@ -26,6 +26,7 @@
 |---|---------|-------------|------------|------|
 | 🌱 | **Super Store Sales Dashboard** | Interactive Power BI dashboard analyzing sales, profit & delivery metrics with KPI cards, regional filters, and 2021 sales forecasting | Power BI · Data Cleaning · Sales Forecasting | [View →](https://github.com/adityaaapratappp/Super-Store-Sales-Dashboard-) |
 | ⚡ | **Apex Quantum Terminal** | Real-time crypto dashboard desktop app with live prices, 7-day volatility charts, ATH/ATL analysis, and a neon cyberpunk UI | Python · Tkinter · Matplotlib · Pandas · REST API | [View →](https://github.com/adityaaapratappp/Crypto-Python-Project-) |
+| 🌌 | **Galaxy Clock** | Fullscreen animated solar system clock with all 8 planets orbiting in real time, twinkling starfield, shooting stars, and a live clock with clickable planet telemetry | Python · Tkinter · Math · Animation | [View →](https://github.com/adityaaapratappp/Galaxy-Clock) |
 
 ###
 
@@ -34,7 +35,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/adityaapratapp" target="_blank">
+  <a href="https://www.linkedin.com/in/adityaapratapp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
   </a>
   <a href="singhaditya1224@gmail.com" target="_blank">
