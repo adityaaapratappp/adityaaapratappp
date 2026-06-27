@@ -18,11 +18,14 @@
 
 ###
 
-<h3 data-importer="text" align="left">📊 Super Store Sales Dashboard🌱 First Project<br>https://github.com/adityaaapratappp/Super-Store-Sales-Dashboard-</h3>
+<h3 data-importer="text" align="left">🗂️ Projects</h3>
 
 ###
 
-<h5 data-importer="text" align="left">What Was Built<br>• Developed an interactive sales analytics dashboard using Power BI<br>• Analysed the Super Store dataset covering sales, profit, quantity, and delivery metrics<br>• Designed KPI cards, donut charts, area charts, bar charts, a geographic map, and a sales forecast<br>• Implemented regional filters (Central, East, South, West) for dynamic data exploration<br><br>What Was Learned<br>• Data cleaning and preparation of raw retail data for visual analysis<br>• Building KPI indicators — Sales (1.57M), Quantity (22K), Profit (175K), Avg Delivery Days<br>• Designing multi-chart dashboards with consistent layout and colour themes<br>• Year-over-year comparison of sales and profit trends (2019 vs 2020)<br>• Geographic mapping of sales and profit distribution across US states<br>• Sales forecasting to project future performance into 2021<br>• Extracting business insights from data — segment performance, shipment modes, regional trends<br><br>Power BI<br>Data Cleaning<br>Data Visualization<br>Sales Forecasting<br>Business Analytics</h5>
+| # | Project | Description | Tech Stack | Link |
+|---|---------|-------------|------------|------|
+| 🌱 | **Super Store Sales Dashboard** | Interactive Power BI dashboard analyzing sales, profit & delivery metrics with KPI cards, regional filters, and 2021 sales forecasting | Power BI · Data Cleaning · Sales Forecasting | [View →](https://github.com/adityaaapratappp/Super-Store-Sales-Dashboard-) |
+| ⚡ | **Apex Quantum Terminal** | Real-time crypto dashboard desktop app with live prices, 7-day volatility charts, ATH/ATL analysis, and a neon cyberpunk UI | Python · Tkinter · Matplotlib · Pandas · REST API | [View →](https://github.com/adityaaapratappp/Crypto-Python-Project-) |
 
 ###
 
